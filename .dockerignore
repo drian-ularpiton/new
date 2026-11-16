@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.openai
+.env
+*.zip
+*.log
+SOURCE-LENGKAP.md
+VERIFIKASI.md

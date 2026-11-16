@@ -1,0 +1,18 @@
+{
+  "name": "bento-kopi-jember",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.js",
+    "check-images": "node scripts/check-images.js",
+    "test": "node --test",
+    "dev": "node scripts/dev.js"
+  },
+  "dependencies": {
+    "sharp": "0.34.5"
+  }
+}
